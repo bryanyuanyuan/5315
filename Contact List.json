@@ -1,0 +1,94 @@
+{
+   "CATALOG": {
+      "CD": [
+         {
+            "NAME": "Garen Forsythe",
+            "PHONE": "620-343-9351",
+            "EMAIL": "garenforsythe@gmail.com",
+            "SCHOOL": "Emporia",
+            "PROGRAM": "PMBA",
+            "COUNTRY": "USA"
+         },
+         {
+            "NAME": "Brandi Delmott",
+            "PHONE": "620-344-2797",
+            "EMAIL": "brandilundgren@gmail.com",
+            "SCHOOL": "Emporia",
+            "PROGRAM": "PMBA",
+            "COUNTRY": "USA"
+         },
+         {
+            "NAME": "Kristina Brisendine",
+            "PHONE": "620-803-8878",
+            "EMAIL": "klbris@yahoo.com",
+            "SCHOOL": "UMKC",
+            "PROGRAM": "MSF",
+            "COUNTRY": "Columbia"
+         },
+         {
+            "NAME": "Miranda Renfro",
+            "PHONE": "785-214-9077",
+            "EMAIL": "mdrenfro@hotmail.com",
+            "SCHOOL": "UCLA",
+            "PROGRAM": "MSBA",
+            "COUNTRY": "USA"
+         },
+         {
+            "NAME": "Seung-Ri Yoon",
+            "PHONE": "620-757-3570",
+            "EMAIL": "victory0407@gmail.com",
+            "SCHOOL": "USC",
+            "PROGRAM": "MPA",
+            "COUNTRY": "South Korea"
+         },
+         {
+            "NAME": "Aoi Shimizu",
+            "PHONE": "646-374-1740",
+            "EMAIL": "a.sshimizu567@gmail.com",
+            "SCHOOL": "BC",
+            "PROGRAM": "MPA",
+            "COUNTRY": "Japan"
+         },
+         {
+            "NAME": "Eunice Chilimanzi",
+            "PHONE": "505-204-0267",
+            "EMAIL": "euna.jay@googlemail.com",
+            "SCHOOL": "Hays",
+            "PROGRAM": "PMBA",
+            "COUNTRY": "Zimbabwe"
+         },
+         {
+            "NAME": "Khulangoo Batchuluun",
+            "PHONE": "816-352-7091",
+            "EMAIL": "khulangoo.batchuluun@gmail.com",
+            "SCHOOL": "UT",
+            "PROGRAM": "PMBA",
+            "COUNTRY": "Mongolia"
+         },
+         {
+            "NAME": "Akram Alkhatib",
+            "PHONE": "816-694-2390",
+            "EMAIL": "akram_kh2011@hotmail.com",
+            "SCHOOL": "Emporia",
+            "PROGRAM": "Albers",
+            "COUNTRY": "Palestine"
+         },
+         {
+            "NAME": "Andreas Luckert",
+            "PHONE": "816-694-9934",
+            "EMAIL": "andreas.lueckert@outlook.com",
+            "SCHOOL": "Albers",
+            "PROGRAM": "PMBA",
+            "COUNTRY": "Germany"
+         },
+         {
+            "NAME": "Seonjin Na",
+            "PHONE": "785-432-1707",
+            "EMAIL": "nasunjin1004@yahoo.co.kr",
+            "SCHOOL": "UIUC",
+            "PROGRAM": "MSBA",
+            "COUNTRY": "South Korea"
+         }
+      ]
+   }
+}
